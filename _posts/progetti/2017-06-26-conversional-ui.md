@@ -28,15 +28,6 @@ Risultato un template che sfrutta un **layout conversazionale** per ottenere un 
 
 ![Conversational UI sample]({{ BASE_PATH }}/assets/images/conversional_ui2.gif){:.img-responsive}
 
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
 
 ## To Do
 
