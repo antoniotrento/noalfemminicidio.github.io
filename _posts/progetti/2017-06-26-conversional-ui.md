@@ -20,14 +20,15 @@ Implementazione framework javascript [botui](https://botui.org/), su template je
 
 Risultato un template che sfrutta un **layout conversazionale** per ottenere un risultato interattivo e familiare da associare qualsiasi prodotto o servizio si voglia promuovere su web. 
 
-## Caratteristiche
+### Caratteristiche
 
 * Si possono catturare dati dell'utente durante la conversazione
 * Può porre domande ed in base alla risposta seguire un elenco diverso di messaggi in base alla risposta
 * È compatibile e si integra bene con immagini, links e gifs
 
+![Conversational UI sample]({{ BASE_PATH }}/assets/images/conversional_ui2.gif){:.img-responsive}
 
-### To Do
+## To Do
 
 
 * Implementazione bot da file di configurazione
