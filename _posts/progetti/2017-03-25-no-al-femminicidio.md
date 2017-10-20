@@ -12,6 +12,7 @@ css:
 js: 
 keywords: jekyll, website, web design, design, marketign, web marketing, funnel
 canonical: https://antoniotrento.github.io
+link: https://noalfemminicidio.github.io
 
 ---
 {% include JB/setup %}
