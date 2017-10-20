@@ -12,6 +12,7 @@ css:
 js: 
 keywords: jekyll, website, web design, design, marketign, web marketing, amazon, t-shirts
 canonical: https://antoniotrento.github.io
+link: https://hub4hugs.github.io
 
 ---
 {% include JB/setup %}
