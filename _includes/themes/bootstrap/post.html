@@ -40,7 +40,10 @@
                 <li><i class="ion-ios-circle-filled"></i> {{ tag }}</li>
                 {% endfor %}
             </ul> 
-            {% endif %}           
+            {% endif %}
+            {% if page.tools %}
+            <a haref="{{ page.link }}" target="_blank">Visita {{ page.title }}</a>
+            {% endif %}
             <div class="h-10"></div>
             <h4>Condividi</h4>
             {% include social-share.html %}
