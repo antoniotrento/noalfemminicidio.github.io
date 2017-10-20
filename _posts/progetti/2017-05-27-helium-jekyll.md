@@ -12,6 +12,7 @@ css:
 js: 
 keywords: jekyll, website, web design, design, marketign, web marketing
 canonical: https://antoniotrento.github.io
+link: https://heliumjk.github.io
 
 ---
 {% include JB/setup %}
