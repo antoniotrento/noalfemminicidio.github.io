@@ -12,6 +12,7 @@ css:
 js: 
 keywords: jekyll, website, web design, javascript
 canonical: https://antoniotrento.github.io
+link: https://jekynewage.github.io
 
 ---
 {% include JB/setup %}
