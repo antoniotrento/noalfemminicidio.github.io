@@ -17,3 +17,18 @@ link: http://trentomusic.ddns.net/
 ---
 {% include JB/setup %}
 <!--more-->
+
+Struttura server self hosted sviluppada da con Ubuntu Server 14.10.
+
+La struttura server è una simulazione di una struttura **ospitata su cloud hosting** la quale è comprende una suite di tool server molto utile per l'archiviazione di dati e l'implementazione di strategie di marketing automation, strumenti per fotografi e strumenti per la fatturazione.
+
+Il server comprende molti strumenti open source:
+
+* [Mautic](https://mautic.org){:target="_blank"} per creare campagne di email marketing e gestire in modo segmentato i tuoi contatti email
+* [OwnCloud](https://owncloud.com){:target="_blank"} per avere un server di archiviazione dati cloud personale (usato dalla Stanford University)
+* [Kimai](http://www.kimai.org/){:target="_blank"} Timetraker per incrementare la produttività e gestire il tempo dei collaboratori
+* [Fatture](http://theanchorapp.com/){:target="_blank"} per automatizzare il processo di invio fatture ai clienti
+* [Cheverdo](http://antoniotrento.ddns.net/immagini/){:target="_blank"} Una galleria in cloud dove archiviare le foto  e condividerle immediatamente con chi vuoi
+* [Lichee](https://lychee.electerious.com/){:target="_blank"} una galleria in cloud per archiviare le tue immagini su web e poter accedere da qualunque dispositivo
+
+Tutto il sistema è monitorato da un sistema di analytics chiamato piwik
