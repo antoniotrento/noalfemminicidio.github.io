@@ -23,7 +23,7 @@ Creazione:
 
 * [Community su twitter](https://twitter.com/no__violece){:target="_blank"}
 * Automazioni social per promuovere l'account
-* Blog in jekyll
+* [Blog in jekyll](https://noalfemminicidio.github.io){:target="_blank"}
 * Strumenti di lead generation
 
 ![NoAlFemminicidio sample]({{ BASE_PATH }}/assets/images/noalfemminicidio1.jpg){:.img-responsive}
