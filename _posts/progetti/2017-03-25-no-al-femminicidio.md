@@ -19,6 +19,14 @@ link: https://noalfemminicidio.github.io
 <!--more-->
 Reverse blog strutturato per favorire il racconto di episodi di violenza sulle donne da parte da chi ne ha subiti in forma anonima.
 
+Ideazione:
+
+* Identità del brand
+* possibile futuro merchandise tramite amazon merch
+* Ideazione strategia di reverse blogging
+
+![NoAlFemminicidio logo]({{ BASE_PATH }}/assets/images/noalfemminicidio-big.png){:.img-responsive}
+
 Creazione:
 
 * [Community su twitter](https://twitter.com/no__violece){:target="_blank"}
