@@ -17,3 +17,18 @@ link: https://getshjtdone.github.io
 ---
 {% include JB/setup %}
 <!--more-->
+
+Un tema Jekyll bastato su Bootstrap creato per rendere veloce e modulare lo sviluppo di pagine web. 
+
+È munito di script per configurazione automatica disqus, add this, google ad sense e google analithycs.
+
+Tutti le  integrazioni:
+
+* Google AD words
+* Google Analitycs
+* Social media
+* Integrazione dev tool facebook e twitter
+* Disqus comment system
+
+![Jekyll New Age analytics]({{ BASE_PATH }}/assets/images/getshjtdone-mockup1.jpg){:.img-responsive}
+
