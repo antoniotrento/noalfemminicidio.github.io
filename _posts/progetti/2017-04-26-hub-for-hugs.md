@@ -23,3 +23,5 @@ Realizzazione di una strategia di marketing per la commercializzazione di t-shir
 Creazione della piattaforma web, creazione del sito web e implementazione strategia di social sharing.
 
 Implementazione della creatività delle magliette su photoshop ed invio ad amazon merch per ospitare il prodotto in vendita su Amazon
+
+![Hub4hugs sample]({{ BASE_PATH }}/assets/images/hub4hugs-mockup1.jpg){:.img-responsive}
