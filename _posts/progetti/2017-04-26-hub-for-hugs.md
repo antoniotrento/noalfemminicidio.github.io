@@ -24,4 +24,4 @@ Creazione della piattaforma web, creazione del sito web e implementazione strate
 
 Implementazione della creatività delle magliette su photoshop ed invio ad amazon merch per ospitare il prodotto in vendita su Amazon
 
-![Hub4hugs sample]({{ BASE_PATH }}/assets/images/hub4hugs-mockup1.jpg){:.img-responsive}
+![Hub4hugs sample]({{ BASE_PATH }}/assets/images/hub4hugs-mockup2.jpg){:.img-responsive}
