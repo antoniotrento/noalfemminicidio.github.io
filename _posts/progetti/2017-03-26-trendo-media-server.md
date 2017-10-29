@@ -30,5 +30,6 @@ Il server comprende molti strumenti open source:
 * [Fatture](http://theanchorapp.com/){:target="_blank"} per automatizzare il processo di invio fatture ai clienti
 * [Cheverdo](http://antoniotrento.ddns.net/immagini/){:target="_blank"} Una galleria in cloud dove archiviare le foto  e condividerle immediatamente con chi vuoi
 * [Lichee](https://lychee.electerious.com/){:target="_blank"} una galleria in cloud per archiviare le tue immagini su web e poter accedere da qualunque dispositivo
+* [SubSonic](http://www.subsonic.org/){:target="_blank"} un media server cloud per gestire musica e video, molto utile per avere un pc con tutta la propria musica archiviata ed avere la possibilità di riprodurla ovunque tramite mobile e 4G oppure direttamente da server
 
 Tutto il sistema è monitorato da un sistema di analytics chiamato piwik
