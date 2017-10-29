@@ -7,10 +7,10 @@ img : trendoserver-mockup1.jpg
 img2 : trendoserver-mockup.jpg
 img3 : folio-trendo-media-server.jpg
 author : Antonio Trento
-tools: [Hosting Linux, Esperimento Cloud, Wordpress, Funnel, Email Automation, piwik]
+tools: [Hosting Linux, Cloud, Wordpress, Funnel, Email Automation, piwik]
 css: 
 js: 
-keywords: cloud, website, web design, design, marketign, web marketing, linux, server
+keywords: cloud, website, wordpress, web design, design, marketign, web marketing, linux, server
 canonical: https://antoniotrento.github.io
 link: http://trendomusic.ddns.net/
 
