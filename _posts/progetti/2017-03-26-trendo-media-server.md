@@ -12,7 +12,7 @@ css:
 js: 
 keywords: cloud, website, web design, design, marketign, web marketing, linux, server
 canonical: https://antoniotrento.github.io
-link: http://trentomusic.ddns.net/
+link: http://trendomusic.ddns.net/
 
 ---
 {% include JB/setup %}
