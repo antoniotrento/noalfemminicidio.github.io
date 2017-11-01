@@ -2,7 +2,7 @@
 layout: post
 category : progetti
 tagline: "Implementazione cloud media server privato su rete pubblica"
-tags : [linux, hosting, cloud, web-design]
+tags : [linux, hosting, cloud, web-design, marketing automation]
 img : trendoserver-mockup1.jpg
 img2 : trendoserver-mockup.jpg
 img3 : folio-trendo-media-server.jpg
@@ -26,6 +26,7 @@ Il server comprende molti strumenti open source:
 
 * [Mautic](https://mautic.org){:target="_blank"} per creare campagne di email marketing e gestire in modo segmentato i tuoi contatti email
 * [OwnCloud](https://owncloud.com){:target="_blank"} per avere un server di archiviazione dati cloud personale (usato dalla Stanford University)
+* [Mattermost](https://mattermost.com){:target="_blank"} per avere un server cloud di gestione, chat e condivisione in team molto simile a [slack](https://slack.com){:target="_blank"} ma open source per team di piccole dimensioni
 * [Kimai](http://www.kimai.org/){:target="_blank"} Timetraker per incrementare la produttività e gestire il tempo dei collaboratori
 * [Fatture](http://theanchorapp.com/){:target="_blank"} per automatizzare il processo di invio fatture ai clienti
 * [Cheverdo](http://antoniotrento.ddns.net/immagini/){:target="_blank"} Una galleria in cloud dove archiviare le foto  e condividerle immediatamente con chi vuoi
