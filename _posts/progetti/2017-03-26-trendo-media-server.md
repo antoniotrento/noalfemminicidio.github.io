@@ -27,8 +27,9 @@ Il server comprende molti strumenti open source:
 * [Mautic](https://mautic.org){:target="_blank"} per creare campagne di email marketing e gestire in modo segmentato i tuoi contatti email
 * [OwnCloud](https://owncloud.com){:target="_blank"} per avere un server di archiviazione dati cloud personale (usato dalla Stanford University)
 * [Mattermost](https://mattermost.com){:target="_blank"} per avere un server cloud di gestione, chat e condivisione in team molto simile a [slack](https://slack.com){:target="_blank"} ma open source per team di piccole dimensioni
+* [osTiket](http://osticket.com/){:target="_blank"} Un sitema open source di ticketing e task tracking per gestire le richieste di supporto dei clienti e progetti aziendali interni, concettualmente simile a Zendesk
 * [Kimai](http://www.kimai.org/){:target="_blank"} Timetraker per incrementare la produttività e gestire il tempo dei collaboratori
-* [Fatture](http://theanchorapp.com/){:target="_blank"} per automatizzare il processo di invio fatture ai clienti
+* [Fatture](http://theanchorapp.com/){:target="_blank"} per automatizzare il processo di produzione e invio fatture ai clienti
 * [Cheverdo](http://antoniotrento.ddns.net/immagini/){:target="_blank"} Una galleria in cloud dove archiviare le foto  e condividerle immediatamente con chi vuoi
 * [Lichee](https://lychee.electerious.com/){:target="_blank"} una galleria in cloud per archiviare le tue immagini su web e poter accedere da qualunque dispositivo
 * [SubSonic](http://www.subsonic.org/){:target="_blank"} un media server cloud per gestire musica e video, molto utile per avere un pc con tutta la propria musica archiviata ed avere la possibilità di riprodurla ovunque tramite mobile e 4G oppure direttamente da server
